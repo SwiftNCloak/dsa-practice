@@ -3,4 +3,4 @@ SwiftNCloak
 
 ---
 
-I made this in order to practice DSA [Data Structures and Algorithms]
+> `I made this in order to practice DSA [Data Structures and Algorithms]`
